@@ -1,10 +1,8 @@
-import math as math
-import itertools
-import random
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import pandas as pd
-import scipy.stats as stats
-from collections import Counter
-
+3.11.5 | packaged by Anaconda, [MSC v.1916 64 bit (AMD64)] Python
+1.26.1 NumPy
+3.7.2 Matplotlib
+0.12.2 Seaborn
+1.5.3 Pandas
+1.10.1 SciPy Stats
+0.5.11 Voila
+8.0.4 Ipywidgets
