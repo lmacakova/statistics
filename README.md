@@ -13,7 +13,7 @@
 - requirement.txt
 - .gitignore   
 
-## How to work with jupyter notebook problems.ipynb:
+## How to work with Jupyter Notebook problems.ipynb:
 1. Clone the repository with:\
  bash
  ```
@@ -27,7 +27,7 @@
  ```
     # macOS/Linux
  ```
- ource .venv/bin/activate
+ source .venv/bin/activate
  ```
     # Windows PowerShell
  ```
@@ -80,10 +80,7 @@ Tasks:
 
 Solution: I describe the binomial distribution and simulate it using numpy.random.binomial. I explain the resemblances and differences between binomial and normal distributions and the reasons behind them. 
 
-## Contact:
-Lucia Macakova\
-email: G00439449@atu.ie
-
+---
 
 ## Resources:
 [^1]:   https://en.wikipedia.org/wiki/Lady_tasting_tea
