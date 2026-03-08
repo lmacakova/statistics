@@ -1,9 +1,7 @@
 ![magnifying glass over math's formulas](https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg)
-# Applied Statistics - Assessment
-## Lucia Macakova
-This is my Assessment for the module Applied Statistics, as a student of Atlantic Technical University in the Higher Diploma in Science in Computing in Data Analytics. 
+# Statistics
 
-## The Purpose of Assessment:
+## The Purpose:
 * Describe the stochastic nature of real-world measurements.
 * Source documentation to programmatically perform a statistical test.
 * Select an appropriate statistical test to investigate a claim.
